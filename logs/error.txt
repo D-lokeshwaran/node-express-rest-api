@@ -1,0 +1,11 @@
+20240406	23:26:23	c8a820dc-3730-4afc-bdaa-dbed5dd5f07b	Error: Not allowed by CORS
+20240407	00:19:24	caffb85f-f25f-4ce8-9431-180020b88c38	Error: ENOENT: no such file or directory, stat '/home/msuser1/training_workspace/self_learnings/react_training/mern-stack/node-js-training/08-express-router/views/subdir/test.html'
+20240408	10:58:21	734717c0-b6a3-476a-a65e-7201476d178d	TypeError: Cannot read properties of undefined (reading 'id')
+20240408	10:58:51	b6bc420d-4d86-4d64-9fa1-fb58acc07c4a	ReferenceError: setData is not defined
+20240408	10:59:02	287067ec-0ffd-423a-8353-c9633855c0ce	ReferenceError: data is not defined
+20240408	11:00:11	38df24ca-bce8-497d-8f28-33fd3b84ab44	Error: Cannot set headers after they are sent to the client
+20240408	11:01:16	2221e3b1-b8e0-4a3e-9fd8-4bb74be41f40	Error: Cannot set headers after they are sent to the client
+20240408	11:01:25	f7fc19d5-7a1e-4290-bac1-9088d5aa52ee	Error: Cannot set headers after they are sent to the client
+20240408	11:02:01	06ca4009-5258-4bf7-9cca-fdb58206d4b3	Error: Cannot set headers after they are sent to the client
+20240408	11:42:10	ab5f3266-ebdc-4b9c-a877-7e22e70a6f4d	TypeError: res.status(...).message is not a function
+20240408	16:56:03	f67307cd-66bf-497d-829d-30b675924b08	Error: Cannot set headers after they are sent to the client

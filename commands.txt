@@ -1,0 +1,9 @@
+npm i nodemon -g // used to install nodemon which automatically execute index.js when file is changed,
+                    but we don't have the access to use if
+
+nodemon // default it we look for index.js
+npm init -y // to initialize package.json -y used to skip the config to default
+npm i date-fns // date functions install the data as a dependencies
+npm run dev // to start dev scripts in package.json owlet
+
+require('crypto').randomBytes(64).toString('hex') // to generate random 64 byte secret token
